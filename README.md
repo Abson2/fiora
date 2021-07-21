@@ -8,8 +8,10 @@ Fiora is an interesting open source chat application. It is developed based on [
 - **Open Source:** Fiora follows the MIT open source license
 
 Online Example: [https://fiora.suisuijiang.com/](https://fiora.suisuijiang.com/)   
-Android / iOS App: [https://github.com/yinxin630/fiora-app](https://github.com/yinxin630/fiora-app)   
 Documentation: [https://yinxin630.github.io/fiora/](https://yinxin630.github.io/fiora/)
+
+**Other Client**   
+Vscode Extension: [https://github.com/moonrailgun/fiora-for-vscode](https://github.com/moonrailgun/fiora-for-vscode)   
 
 ## Features
 
@@ -23,8 +25,9 @@ Documentation: [https://yinxin630.github.io/fiora/](https://yinxin630.github.io/
 
 ## Screenshot
 
-<img src="https://github.com/yinxin630/fiora/raw/master/docs/static/img/screenshots/screenshot-pc.png" alt="PC" style="max-width:800px" />
-<img src="https://github.com/yinxin630/fiora/raw/master/docs/static/img/screenshots/screenshot-phone.png" alt="Phone" height="667" style="max-height:667px" />
+<img src="https://github.com/yinxin630/fiora/raw/master/packages/docs/static/img/screenshots/screenshot-pc.png" alt="PC" style="max-width:800px" />
+<img src="https://github.com/yinxin630/fiora/raw/master/packages/docs/static/img/screenshots/screenshot-phone.png" alt="Phone" height="667" style="max-height:667px" />
+<img src="https://github.com/yinxin630/fiora/raw/master/packages/docs/static/img/screenshots/screenshot-app.png" alt="App" height="896" style="max-height:896px" />
 
 ## Install
 
